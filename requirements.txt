@@ -1,0 +1,4 @@
+selenium
+BeautifulSoup
+sqlalchemy
+simplejson
